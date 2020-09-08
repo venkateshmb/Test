@@ -5,3 +5,7 @@ This is a first file for testing
 java
 python
 javascript
+SQL
+R
+
+Thanks
