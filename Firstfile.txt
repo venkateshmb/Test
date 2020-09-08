@@ -7,5 +7,7 @@ python
 javascript
 SQL
 R
+Ruby on rails
+asp.net
 
 Thanks
